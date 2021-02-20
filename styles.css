@@ -1,0 +1,135 @@
+.home-div{
+    background-image: url('images/background-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1, .first-tribute {
+    text-align: center;
+    color: gold;
+    margin-bottom: 0;
+}
+
+.address {
+    margin-top: 0;
+    text-align: center;
+    font-weight: 900;
+    font-style: normal;
+    color: goldenrod;
+    font-size: 33px;
+}
+
+.tribute-text {
+    color: white;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.first-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.skills {
+    margin-top: 60px;
+}
+
+.skills h2 {
+    text-align: center;
+    color: gold;
+    font-size: 36px;
+}
+
+.first-achievement {
+    margin-bottom: 50px;
+}
+
+.laptop{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+
+.python {
+    font-weight: bold;
+    display: inline;
+    font-size: 36px;
+    margin: 0;
+
+}
+
+.checked-box {
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
+
+.second-achievement {
+    margin: 10px 50px;
+}
+
+.laptop-code {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 20px;
+}
+
+.second-achievement p {
+    display: inline;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.third-achievement img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.third-achievement p {
+    font-size: 36px;
+    font-weight: bold;
+}
+.tribute {
+    background: url('images/celebration.jpg');
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tribute p {
+    text-align: center;
+    font-size: 16px;
+    font-style: oblique;
+    font-weight: 900;
+    color: gold;
+}
+
+.footer {
+    color: gold;
+    background: url('images/background.jpg');
+    background-size: cover;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.footer img {
+    width: 20px;
+    height: 20px;
+}
+
+.footer a{
+    color: gold;
+}
